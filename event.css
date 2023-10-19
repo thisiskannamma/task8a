@@ -1,0 +1,28 @@
+*{
+    margin:5px;
+    padding:px;
+}
+.cards{
+    background-color: aqua;
+    border: 2px double black;
+
+}
+.image img{
+    border-radius: 10px;
+    float:left;
+    width:20%;
+    border: 2px solid black;
+}
+div h1,p{
+    text-align: center;
+}
+.input{
+    text-align:center;
+}
+#button{
+    border-radius: 5px;
+    background-color: rgb(215, 36, 197);
+}
+#button:hover{
+    background-color: aliceblue;
+}
